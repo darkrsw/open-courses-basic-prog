@@ -1,0 +1,6 @@
+    {
+        "name": "Glucose", "formula": "C6H12O6",
+        "id": 79025,
+        "similarTo": ["Hexose", "Fructose"],
+        "biological": true
+    } 
